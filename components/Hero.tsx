@@ -32,7 +32,7 @@ export const Hero = () => {
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I&apos;m, Timilehin Adeniran, Software Engineer based in Nigeria
+            Hi, I'm, Timilehin Adeniran, Software Engineer based in Nigeria
           </p> 
 
           <a href='#about'>
