@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Timishot Portfolio",
-  description: "Mordern & Minimalist JS Mastery Portfolio "  ,
+  description: "Mordern & Minimalist Portfolio"  ,
 };
 
 export default function RootLayout({
